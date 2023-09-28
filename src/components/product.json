@@ -1,0 +1,51 @@
+{
+  "products": [
+    {
+      "id": "Prod1",
+      "name": "Ürün 1",
+      "price": "1500",
+      "stock": "50",
+      "img": "../assets/images/Prod1.jpeg",
+      "size": "L",
+      "description": "a"
+    },
+    {
+      "id": "Prod2",
+      "name": "Ürün 2",
+      "price": "1000",
+      "stock": "30",
+      "img": "../assets/images/Prod2.jpeg",
+      "size": "L",
+      "description": "b"
+    },
+    {
+      "id": "Prod3",
+      "name": "Ürün 3",
+      "price": "1200",
+      "stock": "25",
+      "img": "../assets/images/Prod3.jpeg",
+      "size": "XL",
+      "description": "c"
+    },
+    {
+      "id": "Prod4",
+      "name": "Ürün 4",
+      "price": "500",
+      "stock": "250",
+      "img": "../assets/images/Prod4.jpeg",
+      "size": "S",
+      "description": "d"
+    },
+    {
+      "id": "Prod5",
+      "name": "Ürün 5",
+      "price": "250",
+      "stock": "50",
+      "img": "../assets/images/Prod5.jpeg",
+      "size": "XS",
+      "description": "e"
+    }
+  ],
+  "data": {
+  "total": 5 }
+}
